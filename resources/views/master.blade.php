@@ -41,5 +41,15 @@
     .search-box{
         width: 400px !important;
     }
+    .cart-list-driver{
+        border-bottom: 1px solid gray;
+        margin-bottom: 20px;
+        padding-bottom: 20px; 
+    }
+    .cart-list-image{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-left: 0px;
+    }
 </style>
 </html>
