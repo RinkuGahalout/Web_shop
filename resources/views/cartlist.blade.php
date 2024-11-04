@@ -19,7 +19,8 @@
                             </div>
                         </div>
                         <div class="col-sm-4">
-                            <a href="/removecart/{{$item->cart_id}}" class="btn btn-danger">Remove from car </a>
+                            <a href="/removecart/{{$item->cart_id}}" class="btn btn-danger">Remove from cart </a>
+                            <a class="btn btn-success" href="/ordernow">Order Now</a>
                         </div>
                     </div>     
                 @endforeach
